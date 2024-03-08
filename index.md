@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Bodun Hu"
+title: "Luke Johnson"
 ---
 
 My <img class="profile-picture" src="https://cdn.jsdelivr.net/gh/BDHU/bdhu.github.io/assets/img/logo.jpg"> name is Bodun (though I usually go by Edward). I’m a CS PhD student at [UT Austin](https://www.utexas.edu/) 🤘, working in the [UTNS](https://utns.cs.utexas.edu/) lab with [Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). My research lies at the intersection of operating systems, network, and machine learning. I love building systems for ML and using ML to enhance systems.
@@ -75,4 +75,3 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 
 ---
 
-<img style="width:350px;" src="/assets/img/wordcloud.svg"/>
