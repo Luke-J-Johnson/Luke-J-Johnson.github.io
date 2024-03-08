@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-[Home](./)
+[Home](../)
 
 # Blogs
 
