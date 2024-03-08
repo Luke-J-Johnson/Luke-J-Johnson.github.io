@@ -3,6 +3,8 @@ layout: default
 title: "Luke Johnson"
 ---
 
+<img class="profile-picture" src="https://cdn.jsdelivr.net/gh/Luke-J-Johnson/luke-j-johnson.github.io/assets/img/logo.jpeg">
+
 My name is Luke Johnson a Finance PhD student at UTS. 
 
 ---
