@@ -1,9 +1,9 @@
 title: Luke Johnson
-logo: /assets/img/logo.jpg
+logo: /assets/img/logo.jpeg
 email: no mail
 blank_title: true
-favicon: true
-description: ""
+favicon: false
+description: "Finance PhD @ UTS & DFCRC"
 show_downloads: false
 google_analytics: G-ZJDPG2WQF9
 remote_theme: BDHU/minimalist
