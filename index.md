@@ -27,3 +27,7 @@ My name is Luke Johnson a Finance PhD student at UTS.
 
 ## Awards
 
+
+---
+
+<img style="width:350px;" src="/assets/img/funny-monkey1.jpg"/>
