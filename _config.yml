@@ -1,11 +1,12 @@
-title: Luke Johnson 
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Luke Johnson
+logo: /assets/img/logo.jpg
+email: no mail
 blank_title: true
 favicon: true
 description: ""
 show_downloads: false
-google_analytics: G-ZJDPG2WQF9 
-
+google_analytics: G-ZJDPG2WQF9
+remote_theme: BDHU/minimalist
 color-scheme: light
 plugins:
   - jekyll-sitemap
