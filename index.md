@@ -25,22 +25,8 @@ with Ester Felez Vinas and Talis Putnins \\
 
 ---
 
-## Publications
-
-
----
-
-## In the news
+## Blogs
 
 
 
----
 
-## Awards
-
-
----
-
-## Monkey
-
-<img style="width:350px;" src="/assets/img/funny-monkey1.jpg"/>
