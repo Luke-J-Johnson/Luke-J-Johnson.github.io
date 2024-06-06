@@ -18,7 +18,7 @@ with Ester Felez Vinas and Talis Putnins. <br>
 - 6th Sydney Market Microstructure and Digital Finance Meeting
 
 
-#### AMM Liquidity Measurement. <br>
+**AMM Liquidity Measurement.** <br>
 with Ester Felez Vinas and Talis Putnins. <br>
 
 
