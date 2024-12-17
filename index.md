@@ -12,7 +12,7 @@ with Ester Felez Vinas and Talis Putnins. <br>
 - [Insider Traders Have Found Their Way to Cryptocurrency Markets](https://clsbluesky.law.columbia.edu/2022/08/26/insider-traders-have-found-their-way-to-cryptocurrency-markets/): The Columbia Law School Blue Sky Blog
 
 
-**Active vs Passive: Price Discovery in Automated Market Makers.** <br>
+**Can Automated Market Makers Provide Price Discovery?.** <br>
 with Ester Felez Vinas and Talis Putnins. <br>
 [Paper](/working-papers/avp-pd/paper.pdf) 
 - 6th Sydney Market Microstructure and Digital Finance Meeting
